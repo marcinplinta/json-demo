@@ -1,14 +1,50 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+      "title": "Przygotowanie dokumentacji",
+      "content": "Dobrze przmyśl konstrukcję domu. Zrób listę wad i zalet projektów domów. Porównaj rozwiązania zachcianek do realnych cen ich wykonania."
+    },
+    {
+      "title": "Prace Ziemne",
+      "content": "Wyznaczenie domu i punktu zero na działce."
+    },
+    {
+      "title": "Fundamenty",
+      "content": "Zrobienie ław lub płyty fundamentowej."
+    },
+    {
+      "title": "Konstrukcja parteru",
+      "content": "Budowa sciań nośnych oraz stropu."
+    },
+    {
+      "title": "Konstrukcja piętra",
+      "content": "Budowa ścian."
+    },
+    {
+      "title": "Konstrukcja dachu",
+      "content": "Budowa dachu."
+    },
+    {
+      "title": "Stolarka okienna",
+      "content": "Montaż, okien, drzwi."
+    },
+    {
+      "title": "Instalacja elektryczna",
+      "content": "Montaż instalacji elektrycznej."
+    },
+    {
+      "title": "Instalacja grzewcza",
+      "content": "Montaż instalacji grzewczej."
+    },
+    {
+      "title": "Instalacja hydrauliczne",
+      "content": "Montaż instalacji hydraulicznej."
+    },
+    {
+      "title": "Instalacja wentylacyjna",
+      "content": "Montaż instalacji wentylacyjnej."
+    },
+    {
+      "title": "Wykończenia",
+      "content": "Montaż elementów wykończeniowych."
+    }
+    ]
