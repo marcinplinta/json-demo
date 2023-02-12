@@ -1,50 +1,62 @@
 {
   "building plan": [
     {
+      id: 1,
       "title": "Przygotowanie dokumentacji",
       "content": "Dobrze przmyśl konstrukcję domu. Zrób listę wad i zalet projektów domów. Porównaj rozwiązania zachcianek do realnych cen ich wykonania."
     },
     {
+      id: 2,
       "title": "Prace Ziemne",
       "content": "Wyznaczenie domu i punktu zero na działce."
     },
     {
+      id: 3,
       "title": "Fundamenty",
       "content": "Zrobienie ław lub płyty fundamentowej."
     },
     {
+      id: 4,
       "title": "Konstrukcja parteru",
       "content": "Budowa sciań nośnych oraz stropu."
     },
     {
+      id: 5,
       "title": "Konstrukcja piętra",
       "content": "Budowa ścian."
     },
     {
+      id: 6,
       "title": "Konstrukcja dachu",
       "content": "Budowa dachu."
     },
-    {
+    { 
+      id: 7,
       "title": "Stolarka okienna",
       "content": "Montaż, okien, drzwi."
     },
     {
+      id: 8,
       "title": "Instalacja elektryczna",
       "content": "Montaż instalacji elektrycznej."
     },
     {
+      id: 9,
       "title": "Instalacja grzewcza",
       "content": "Montaż instalacji grzewczej."
     },
     {
+      id: 10,
       "title": "Instalacja hydrauliczne",
       "content": "Montaż instalacji hydraulicznej."
     },
     {
+      id: 11,
       "title": "Instalacja wentylacyjna",
       "content": "Montaż instalacji wentylacyjnej."
     },
     {
+      id: 12,
       "title": "Wykończenia",
       "content": "Montaż elementów wykończeniowych."
     }
