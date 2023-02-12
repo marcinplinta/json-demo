@@ -1,4 +1,5 @@
- [
+{
+  "building plan": [
     {
       "title": "Przygotowanie dokumentacji",
       "content": "Dobrze przmyśl konstrukcję domu. Zrób listę wad i zalet projektów domów. Porównaj rozwiązania zachcianek do realnych cen ich wykonania."
@@ -12,18 +13,18 @@
       "content": "Zrobienie ław lub płyty fundamentowej."
     },
     {
-     "title": "Konstrukcja parteru",
+      "title": "Konstrukcja parteru",
       "content": "Budowa sciań nośnych oraz stropu."
     },
     {
-    "title": "Konstrukcja piętra",
+      "title": "Konstrukcja piętra",
       "content": "Budowa ścian."
     },
     {
       "title": "Konstrukcja dachu",
       "content": "Budowa dachu."
     },
-    { 
+    {
       "title": "Stolarka okienna",
       "content": "Montaż, okien, drzwi."
     },
@@ -46,6 +47,10 @@
     {
       "title": "Wykończenia",
       "content": "Montaż elementów wykończeniowych."
+    },
+    {
+      "title": "Inne",
+      "content": "Pozostałe czynności."
     }
-   ]
-
+  ]
+}
