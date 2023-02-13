@@ -1,6 +1,6 @@
 ## Try it
 
-https://my-json-server.typicode.com/marcinplinta/json-demo
+https://my-json-server.typicode.com/marcinplinta/json-demo1
 
 ## Use your own data
 
