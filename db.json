@@ -4,7 +4,11 @@
       "id" : 1,
       "plan_id": 1,
       "title": "Przygotowanie dokumentacji",
+<<<<<<< HEAD
       "content": "Dobrze przmyśl konstrukcję domu. Zrób listę wad i zalet projektów domów. Porównaj rozwiązania zachcianek do realnych cen ich wykonania. 1.Projekt budowlany - dokument ten jest niezbędny do uzyskania pozwolenia na budowę. Projekt powinien być wykonany przez architekta lub firmę projektową i powinien zawierać wszelkie wymagane informacje, takie jak plany budowy, rysunki techniczne, obliczenia statyczne, specyfikacje materiałów itp"
+=======
+      "content": "Dobrze przmyśl konstrukcję domu. Zrób listę wad i zalet projektów domów."
+>>>>>>> ffa70133914bfa0409493298fdc455e06d46e0af
     },
     {
       "id" : 2,
